@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the House of Lords at the Abbey-Church of St. Peters Westminster, on Wednesday, 11th of December, 1695 : being the day appointed for a solemn fast and humiliation / by the Right Reverend Father in God James, Lord Bishop of London.</title>
+            <author>Gardiner, James, 1637-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42362</idno>
+            <idno type="STC">Wing G227</idno>
+            <idno type="STC">ESTC R8142</idno>
+            <idno type="EEBO-CITATION">12922425</idno>
+            <idno type="OCLC">ocm 12922425</idno>
+            <idno type="VID">95417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95417)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 982:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the House of Lords at the Abbey-Church of St. Peters Westminster, on Wednesday, 11th of December, 1695 : being the day appointed for a solemn fast and humiliation / by the Right Reverend Father in God James, Lord Bishop of London.</title>
+                  <author>Gardiner, James, 1637-1705.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Everingham ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Fast-day sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:95417:1"/>
+            <pb facs="tcp:95417:1"/>
+            <p>The Biſhop of <hi>LINCOLN's</hi> SERMON Preach'd before the Houſe of LORDS.</p>
+         </div>
+         <div type="order">
+            <pb facs="tcp:95417:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris,</hi> 13 <hi>Decemb.</hi> 95:</date>
+               </dateline>
+            </opener>
+            <p>IT is Ordered by the Lords Spiritual and Temporal in Parliament Aſſem<g ref="char:EOLhyphen"/>bled, That the Thanks of this Houſe be Given to the Lord Biſhop of <hi>Lincoln,</hi> for his Sermon Preached before this Houſe, in the Abbey-Church at <hi>Westminſter,</hi> the 11th inſtant; and he is hereby deſired to Print and Publiſh the ſame.</p>
+            <closer>
+               <signed>
+                  <hi>Matth. Johnſon,</hi> Cler. Parl.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:95417:2"/>
+            <p>A SERMON Preach'd before the Houſe of Lords, AT THE <hi>Abbey</hi>-Church of St. <hi>Peter's Weſtminſter.</hi> ON <hi>Wedneſday,</hi> the 11th of <hi>December,</hi> 1695. Being the Day appointed for A Solemn Faſt and Humiliation.</p>
+            <p>By the Right Reverend Father in God, <hi>James,</hi> Lord Biſhop of <hi>Lincoln.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Everingham,</hi> at the <hi>Star</hi> in <hi>Ludgate-Street,</hi> near the <hi>Weſt</hi> End of St. <hi>Pauls.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:95417:3"/>
+            <pb n="1" facs="tcp:95417:3"/>
+            <head>A SERMON Preach'd before the <hi>Houſe of Lords.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſalm LXXIX, v. 9.</hi>
+                  </bibl>
+                  <p>
+                     <hi>Which is alſo in the Hymn for this Day.</hi>
+                  </p>
+                  <p>Help us, O God of our Salvation, for the Glory of thy Name; O deliver us, and purge away our Sins, for thy Names ſake.</p>
+               </q>
+            </epigraph>
+            <p>THIS Pſalm is a Paſſionate Addreſs to God, compoſed for the People of the <hi>Jews,</hi> under ſome very great Suffering and Calamity; either upon the deſtruction of <hi>Jeruſalem</hi> and the holy <hi>Temple,</hi> at the Time of the laſt Captivity of the People of <hi>Judah,</hi> as
+<pb n="2" facs="tcp:95417:4"/>ſome Interpreters conceive; or the Slaughter and Devaſtation made by <hi>Antiochus</hi> afterwards, as others conjecture.</p>
+            <p>The Pſalm is full of mournful and melting Expreſſions; and the <hi>Pſalmiſt,</hi> who in the Ti<g ref="char:EOLhyphen"/>tle is ſaid to be <hi>Aſaph,</hi> of which Name there were more than one that were devout <hi>Pſalmiſts,</hi> do's in the Name of the ſuffering Nation, one while expoſtulate with God very paſſionately; another while petition very earneſtly for the Jewiſh Nation; upon whoſe account this <hi>Pſalm</hi> being compoſed, there are ſome Particulars in it that relate purely or principally to them; But then beſides, that theſe Particulars may be applied in parallel caſes, where any ſuch hap<g ref="char:EOLhyphen"/>pen, to other people, there are others more general, which may ſuit the ordinary Circum<g ref="char:EOLhyphen"/>ſtances of any Nation, under common Evils and Calamities; of which this of the Text <hi>I</hi> take to be one; <hi>Help us, O God of our Salvation, for the Glory of thy Name; O deliver us, and purge away our Sins, for thy Names ſake.</hi> And it may ſerve not only our <hi>Devotion</hi> in this Nation at this time, but our <hi>Inſtruction</hi> alſo; and for that purpoſe <hi>I</hi> ſhall now uſe it.</p>
+            <p>In which there may be conſidered theſe two general parts:</p>
+            <p n="1">
+               <pb n="3" facs="tcp:95417:4"/> 1. The Petition it ſelf, in theſe three inſtan<g ref="char:EOLhyphen"/>ces, <hi>Help us, O God, deliver us, and purge away our Sins.</hi>
+            </p>
+            <p n="2">2. The Motive or Argument uſed, <hi>For the Glory of thy Name, and for thy Names ſake.</hi>
+            </p>
+            <p>In the firſt of theſe two parts the Petition, there is a confeſſion of ſin <hi>implied; Purge away our ſins:</hi> So that here we might propoſe two Obſervations upon which to diſcourſe.</p>
+            <p n="1">1. From the confeſſion of ſin <hi>implied,</hi> we might obſerve,</p>
+            <p>That it is very fit for Nations under heavy Preſſures and Calamities, to confeſs their ſins to God publickly.</p>
+            <p n="2">2. From the Petition it ſelf <hi>(expreſt)</hi> we might further obſerve,</p>
+            <p>That it is very proper for <hi>ſuch an afflicted</hi> Nation to pray <hi>earneſtly</hi> to God for help and deliverance.</p>
+            <p>Then from the 2d General, the motive upon which the Petition is grounded, the <hi>Glory of God's Name,</hi> we may infer,</p>
+            <p>That it is proper and acceptable to God for an afflicted People to addreſs to him upon this motive, <hi>the Glory of his Name,</hi> or <hi>his Names ſake.</hi>
+            </p>
+            <p>I ſhall not inſiſt upon either of the two Ob<g ref="char:EOLhyphen"/>ſervations inferred from the firſt General, as be<g ref="char:EOLhyphen"/>ing <hi>Topicks</hi> of Diſcourſe frequently handled
+<pb n="4" facs="tcp:95417:5"/>upon theſe Occaſions: but I ſhall chuſe to treat only on the 2d General, and the Inference from thence.</p>
+            <p>And here I ſhall 1. Explain theſe Expreſſi<g ref="char:EOLhyphen"/>ons of the <hi>Name of God,</hi> and <hi>the Glory of his Name.</hi>
+            </p>
+            <p n="2">2. I ſhall ſhew you what particular Reaſons the People of the <hi>Jews</hi> had to petition God up<g ref="char:EOLhyphen"/>on this motive.</p>
+            <p n="3">3. I ſhall ſhew you what general Reaſon there is that may juſtifie and encourage the uſe of this motive by other People.</p>
+            <p n="4">4. I ſhall enquire, ſo far as we may with Re<g ref="char:EOLhyphen"/>verence and Humility, upon what Occaſions, and at what Seaſons it is proper for any Nation to uſe this motive in their publick Devotions.</p>
+            <p>And laſtly, I ſhall make ſome Application to the preſent occaſion of our meeting.</p>
+            <p>Firſt, By the <hi>Name of God,</hi> in Scripture, is frequently to be underſtood <hi>God himſelf</hi> in all his Excellencies, Attributes and Perfections; and the <hi>Glory of his Name</hi> is the rendering thoſe Per<g ref="char:EOLhyphen"/>fections conſpicuous and obſervable: So that to move God for his <hi>Names ſake,</hi> or the <hi>Glory of his Name,</hi> is to move him, that the Effects of his Divine Attributes may be made viſible and illu<g ref="char:EOLhyphen"/>ſtrious
+<pb n="5" facs="tcp:95417:5"/>in the ſight of men, ſo as that they may be had in juſt Eſteem and Veneration.</p>
+            <p>The Attributes of God which afflicted Peo<g ref="char:EOLhyphen"/>ple are prone to deſire God to exert on their behalf, are principally his Power, his Juſtice and his Mercy.</p>
+            <p>When a Nation is enfeebled in its ſtrength, when it is humbled and brought into troubles and difficulties by its Enemies, when there is no hope of Salvation, by any Outward or Viſible Aſſiſtance, then to deſire God to ſhew his Om<g ref="char:EOLhyphen"/>nipotent Power, is to deſire him to glorifie and ſignalize that Attribute.</p>
+            <p>When an Enemy is Violent and Cruel, Bloody and Inſatiable, Revengeful and Irreconcilable, then to deſire God to execute his Juſt <hi>Indignation</hi> and <hi>Vevgeance</hi> upon them, is to deſire him to let it be ſeen <hi>that there is a God that Judgeth in the Earth.</hi> When ſuch afflicted People are ſenſible of their Sins and <hi>Provocations,</hi> and are humbled for them, and are reſolved to forſake them, then to deſire God to have mercy, is to deſire him to glorifie that <hi>Attribute</hi> of his, in which <hi>he takes moſt delight.</hi>
+            </p>
+            <p>Thus theſe Attributes of God, which are his <hi>Name,</hi> being exerted in a ſignal and il<g ref="char:EOLhyphen"/>luſtrious manner, and at a proper and ſeaſona<g ref="char:EOLhyphen"/>ble
+<pb n="6" facs="tcp:95417:6"/>time, are rendred Glorious and Conſpicuous in the eyes of Men.</p>
+            <p n="2">2. I ſhall ſhew you what particular Rea<g ref="char:EOLhyphen"/>ſons the <hi>Jewiſh</hi> Nation had to petition God, to Glorify thoſe his Attributes on their behalf; And there are two eſpecially.</p>
+            <p>
+               <hi>Firſt,</hi> As they were a Nation Selected from the reſt of the World, and made the <hi>peculiar People</hi> of God; for he provided that <hi>People</hi> of particular Laws and Inſtitutions; and govern<g ref="char:EOLhyphen"/>ed them, not in General only, like the other Nations, as the ſupreme Rector of the World, but as their National King, who reſided amongſt them in a particular manner, having ſeveral Illuſtrious Symbols of his Preſence; as the <hi>Ark,</hi> the <hi>Tabernacle,</hi> the <hi>Temple,</hi> and the <hi>Shechinah,</hi> or viſible Brightneſs, Termed the <hi>Glory,</hi> which was a Conſpicuous and Awful Repreſentation of his Majeſty:</p>
+            <p>By theſe it was known, not to the <hi>Jews</hi> only, but to the Neighbouring <hi>Nations</hi> alſo, that they had a peculiar Governour, who took eſpecial care of them, and fed them, and conducted, and fought for them, and afflicted and puniſhed other Na<g ref="char:EOLhyphen"/>tions for their ſakes; they knew him by thoſe names of Power, <hi>the Lord,</hi> and <hi>the Lord of
+<pb n="7" facs="tcp:95417:6"/>Hoſts,</hi> by which he is frequently ſtiled in the Records of that People.</p>
+            <p>Now this Nation being thus Politically united to God, their Soveraign, in a National Bond, they ſeemed to have one Common In<g ref="char:EOLhyphen"/>tereſt; ſo that the Body could not ſuffer, but the Head muſt ſuffer with it; and therefore finding themſelves under a great Preſſure and Calamity, in which they thought the <hi>Ho<g ref="char:EOLhyphen"/>nour</hi> and the <hi>Name</hi> of <hi>God</hi> would ſuffer with them, they call upon him, upon that very account, to ſave and deliver them; For thus they addreſſed to him, as concerned in their Sufferings, and as it were a <hi>Partner</hi> with them, in the three firſt verſes of this <hi>Pſalm. O God, the Heathen are come into thine Inheritance, thy Holy Temple have they defiled, they have laid</hi> Jeruſalem <hi>on heaps, the dead Bodies of thy Servants have they given to be meat for the Fowls of the Air, and thy Saints unto the Beaſts of the Land;</hi> where by the mention of <hi>thine Inheritance,</hi> thy <hi>Holy Temple,</hi> and <hi>thy Servants and Saints,</hi> It plainly ap<g ref="char:EOLhyphen"/>pears, that they apprehended God himſelf to be concerned in this Deplorable and Reproachful Suffering, and that it was no little Reflection upon him, and upon the <hi>Honour</hi> of his <hi>Name.</hi>
+            </p>
+            <pb n="8" facs="tcp:95417:7"/>
+            <p> But <hi>Secondly</hi> as the People of the <hi>Jews</hi> were <hi>Politically</hi> united to God, their Soveraign in a National Bond, or Covenant, So he expreſt himſelf frequently to have a particular Kind<g ref="char:EOLhyphen"/>neſs for them, giving them many repeated Promiſes, of eſtabliſhing their Government, and the Succeſſion of their Kings in the Royal Line of <hi>David,</hi> to perpetual Generations: For when they were Impatient to have a King like their Neighbouring Nations, and deſired So<g ref="char:EOLhyphen"/>veraign Princes in a Succeſſive Line, which they had not in the time of the <hi>Judges;</hi> theſe be<g ref="char:EOLhyphen"/>ing Authorized only upon Emergencys and for a Limited time, and at moſt during their own ſingle Life; And that God in Complyance with this Requeſt, appointed a King to Reign over them, who being diſobedient to his Commands, he would not eſtabliſh the Succeſſion in his Fa<g ref="char:EOLhyphen"/>mily, but found out <hi>David his Servant,</hi> who was more obedient and more acceptable to him, to whoſe Poſterity he Limited the Roy<g ref="char:EOLhyphen"/>al Succeſſion; promiſing further by <hi>Nathan the Prophet,</hi> that his <hi>Houſe and Kingdom ſhould be eſtabliſhed for ever,</hi> 2 <hi>Sam.</hi> 7. <hi>Ch.</hi> 16. <hi>v.</hi> This Promiſe to <hi>David</hi> is recited by <hi>Ethau</hi> the <hi>Pſal<g ref="char:EOLhyphen"/>miſt,</hi> in the name of God himſelf, in the 89
+<pb n="9" facs="tcp:95417:7"/>
+               <hi>Pſal.</hi> 3.4. <hi>I have made a Covenant with my Choſen, and Sworn unto</hi> David <hi>my Servant, thy Seed will I eſtabliſh for ever, and build up thy Throne to all Generations.</hi>
+            </p>
+            <p>This the <hi>Jews</hi> underſtood, only Litteraly, of a Viſible Temporal Throne, and a Lineal Succeſſion of Princes, ſuch as <hi>David</hi> was, to be continued to the end of the World.</p>
+            <p>But now upon the taking and ſacking of <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and the deſtruction of the <hi>Temple</hi> by Fire, and leading away their Kings and the Body of the People into Captivity, it ſeemed to them as if God had been unmindful of his Promiſe, the Government being ſubverted, and the Royal Family being in danger to be ex<g ref="char:EOLhyphen"/>tinct in the perſon of <hi>Jehojachin;</hi> all which ap<g ref="char:EOLhyphen"/>pears by the Complaint of the ſame <hi>Pſalmiſt,</hi> in the name of the Captivated <hi>Jews,</hi> in the fol<g ref="char:EOLhyphen"/>lowing part of that 89 <hi>Pſalm,</hi> at the 38 verſe. <hi>But thou haſt caſt off and abhorred, thou haſt been wroth with thine anointed,</hi> who was one of <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s Iſſue and Succeſſion: <hi>Thou haſt made void the Covenant of thy ſervant, thou haſt Prophaned his Throne by caſting it to the Ground.</hi>
+            </p>
+            <p>This ſad Complaint was true in the perſon of <hi>Jehojachin</hi> firſt, as alſo in the perſon of his Bro<g ref="char:EOLhyphen"/>ther
+<pb n="10" facs="tcp:95417:8"/>
+               <hi>Zedekiah</hi> who ſucceeded him; and whom the <hi>Chaldeans</hi> took and brought to <hi>Babylon,</hi> kil<g ref="char:EOLhyphen"/>ling his Sons before his eyes, and then putting them out, and carrying him away in Fetters of Braſs.</p>
+            <p>Here now the <hi>Pſalmiſt,</hi> and the ſuffering <hi>Captives</hi> thought they had a juſt Ground to Ex<g ref="char:EOLhyphen"/>poſtulate with God, as we read they did in the 49 <hi>v.</hi> of that <hi>Pſalm: Lord where are thy former Loving kindneſſes, which thou ſwareſt unto</hi> David <hi>in thy Truth?</hi> As if they had ſaid, is this the Stability and Duration of the King<g ref="char:EOLhyphen"/>dom and Family of <hi>David,</hi> ſo frequently Pro<g ref="char:EOLhyphen"/>miſed, and ſo highly Celebrated? Then he adds in the next verſe: <hi>Remember Lord the Re<g ref="char:EOLhyphen"/>proach of thy Servants.</hi> And not of us only, but of thy ſelf alſo; <hi>Wherewith they have Blaſ<g ref="char:EOLhyphen"/>phemed Thee, as well as ſlandered the Footſteps of thine Anointed.</hi>
+            </p>
+            <p>By all that has been ſaid out of this <hi>Pſalm,</hi> it appears plainly that the <hi>Pſalmiſt</hi> and the poor Captives in whoſe name it is Compoſed, thought they had ſome Reaſon to Expoſtulate with God, as to the Promiſe he had made to the <hi>Houſe and Kingdom of David;</hi> In which the Honour of his Name was not a little Concern<g ref="char:EOLhyphen"/>ed.
+<pb n="11" facs="tcp:95417:8"/>And ſo much for the ſecond Inquiry, what particular Reaſons the Nation of the <hi>Jews</hi> had, to petition God in their Extremities, for the <hi>Honour of his Name.</hi>
+            </p>
+            <p>Now 3dly, we are to enquire, what general Encouragement there is, for other Nations to Addreſs to God upon the ſame motive; I ſaid, for other <hi>Nations,</hi> becauſe I conceive it to be a motive more proper for whole <hi>Nations,</hi> and Publick <hi>Societies,</hi> to uſe, than for particular and private Perſons.</p>
+            <p>And the Incouragement is Sufficient, in that God has upon occaſions declared by his Holy <hi>Prophets,</hi> that he is not a little concerned for his own <hi>Honour,</hi> He would have his <hi>Name</hi> known and publiſhed in all the World, He would have that <hi>Honour</hi> given to Him, which is due unto his <hi>Name,</hi> to all his <hi>Names;</hi> for he is ſtiled in Scripture by many <hi>Names,</hi> not only with reſpect to his <hi>Eſſence,</hi> and <hi>Exi<g ref="char:EOLhyphen"/>ſtence,</hi> but alſo to his ſupereminent <hi>Attri<g ref="char:EOLhyphen"/>butes</hi> and <hi>Properties;</hi> and he has declared that he will not ſuffer the <hi>Honour</hi> that is due to theſe, or any of theſe, to be given to an <hi>Other,</hi> for which reaſon, amongſt his other <hi>Names,</hi> he ſtiles himſelf, a <hi>Jealous God,</hi> and tho he has honoured ſome of his Creatures, <hi>Angels,</hi> and
+<pb n="12" facs="tcp:95417:9"/>
+               <hi>Men,</hi> with one or other of <hi>his Names,</hi> or ſome one Letter or Syllable of <hi>his Names,</hi> yet he did not therefore allow that they ſhould receive <hi>ſuch Ho<g ref="char:EOLhyphen"/>nour,</hi> or <hi>ſuch a degree of Honour</hi> as He Himſelf <hi>re<g ref="char:EOLhyphen"/>quires.</hi> There are certain <hi>Honours,</hi> and certain <hi>meaſures of Honour</hi> which he has Appropriated to Himſelf; and as he is very <hi>Jealous</hi> leſt any of theſe ſhould be aſcribed to any Other, ſo he is willing, nay, He requires that they ſhould be performed to Him at all ſeaſonable Times, and upon all proper Occaſions. And we then <hi>honour God,</hi> or <hi>his Attributes and Properties,</hi> when we juſtly <hi>eſteem the viſible Effects produced by them;</hi> When we publickly divulge and declare them to others; When we take Care to have the Knowledg and Memory of them preſerved to future Ages; When we improve in our Obedience under them, And truſt and hope in God more confi<g ref="char:EOLhyphen"/>dently for the Experience of them.</p>
+            <p>By <hi>theſe means the Name of God is Hallowed,</hi> as our Saviour directs his Diſciples to pray, which He accepts, and with which He is well pleaſed: <hi>I will get me Honour,</hi> ſays God to <hi>Moſes, upon Pha<g ref="char:EOLhyphen"/>raoh and upon all his Hoſt.</hi> This He did when He o<g ref="char:EOLhyphen"/>verthrew them in <hi>the Red Sea,</hi> in <hi>ſo ſurpriſing and obſervable a manner;</hi> and therefore He often put
+<pb n="1" facs="tcp:95417:9"/>
+               <hi>the people of Iſrael</hi> in mind of not only thoſe that were perſonally preſerved, but their Poſteri<g ref="char:EOLhyphen"/>ty and Succeſſion, becauſe his Power and his Goodneſs was thereby known to all the Neigh<g ref="char:EOLhyphen"/>bouring Nations.</p>
+            <p>I ſhall now proceed to the 4th thing propos'd; To enquire, as far as it is fit for us, upon what Occaſions; and at what Seaſons it may be pro<g ref="char:EOLhyphen"/>per for a Nation to uſe this Motive in their addreſſes to God.</p>
+            <p>We ought indeed to <hi>Honour</hi> God daily, and as much as we can to promote his <hi>Honour,</hi> and to pray that the <hi>Name</hi> of God may be more and more known and exalted, in the repetiti<g ref="char:EOLhyphen"/>ons of his Praiſes here on Earth, as they are re<g ref="char:EOLhyphen"/>peated in Heaven by Saints and Angels; This, as I told you, our Saviour has taught us to pray for, and in the firſt place, before we petition for <hi>our daily Bread.</hi> But beſides, that this ought to be our daily prayer and endeavour, there are ſome eſpecial Seaſons and Opportunities in which good men ought to be more earneſt in their Prayers, and more Induſtrious in their In<g ref="char:EOLhyphen"/>deavours, for the Promoting and Vindicating <hi>the Honour</hi> of God; and I think I may name theſe two.</p>
+            <pb n="14" facs="tcp:95417:10"/>
+            <p> 
+               <hi>Firſt,</hi> when the Exiſtence and Providence of God is called in queſtion, denied by ſome, and expoſed and prophaned by others. In this caſe they that believe in him and worſhip him, ought to be concerned, and humbly to pray that he would appear ſignally for the Vindica<g ref="char:EOLhyphen"/>tion of himſelf and his own <hi>Honour.</hi> Of this <hi>the Pſalmiſt</hi> ſeems ſenſible in the 119 <hi>Pſal.</hi> and at the 126 ver. <hi>It is time for thee Lord to work,</hi> ſays he, <hi>for they have made void thy Law; To work,</hi> that is, <hi>to work</hi> ſome extraordinary thing, to <hi>lay to his hand,</hi> as it is in the other Engliſh Tran<g ref="char:EOLhyphen"/>ſlation; as if there was need to put to more ſtrength than ordinary at ſuch a time, when men did not only neglect the Law of God (for that has been uſual in all Ages) but made it null and void, as far as in them lay, by denying its Authority and Obligation.</p>
+            <p>Now beſides, that the Works of Creation which we ſee daily with our Eyes, are a ſufficient evi<g ref="char:EOLhyphen"/>dence of the Almighty <hi>Power</hi> and <hi>Wiſdom</hi> of God. There are ſome ſurpriſing Acts of his Pro<g ref="char:EOLhyphen"/>vidence, that many times make a more ſenſi<g ref="char:EOLhyphen"/>ble Impreſſion upon the minds of men, than the common and ſtanding effects of his ominipo<g ref="char:EOLhyphen"/>tent Power.</p>
+            <pb n="15" facs="tcp:95417:10"/>
+            <p> There are various inſtances by which the Pro<g ref="char:EOLhyphen"/>vidence of God is rendred ſignal and obſervable in the World, but in none ſo much as in the E<g ref="char:EOLhyphen"/>vents of War. In this God is as it were the Ar<g ref="char:EOLhyphen"/>biter, it being an Appeal to him, who alone has Right and Power to decide the Conteſt; He be<g ref="char:EOLhyphen"/>ing King of Kings, and Lord of Lords, from whom all Right and all Authority is derived; And therefore he oftentimes thinks fit to Inter<g ref="char:EOLhyphen"/>poſe, in an extraordinary manner, upon this Oc<g ref="char:EOLhyphen"/>caſion. All hiſtory, both Sacred and Prophane inform us, that there is nothing more uncer<g ref="char:EOLhyphen"/>tain in the view of Man, than the Iſſue and Succeſs of Battles; a great deal depends upon ſuddain, and unforeſeen, and unavoidable Ac<g ref="char:EOLhyphen"/>cidents; occaſioned many times, by Meteors and Exhalations of the Earth, which ariſe ſudden<g ref="char:EOLhyphen"/>ly and ſpend themſelves vehemently; But now all theſe are intirely in the hand of God, and they are ordered and conducted by his Provi<g ref="char:EOLhyphen"/>dence. <hi>Who bringeth forth the Clouds from the ends of the World, and ſendeth forth Lightning with the Rain, and bringeth the Winds out of his Treaſures,</hi> as the <hi>Pſalmiſt</hi> expreſſes it; and this he does to ſhew that he is the only ſupreme <hi>Potentate,</hi> and that he is <hi>Wonderful amongſt the Kings of the Earth.</hi>
+            </p>
+            <pb n="16" facs="tcp:95417:11"/>
+            <p> So then if <hi>the Battle be not always to the ſtrong,</hi> but as it ſeems <hi>good to him who takes upon him to decide this great Controverſy,</hi> what a bold Preſum<g ref="char:EOLhyphen"/>ption is it to <hi>Question the Providence of God in this Event?</hi> and all that are <hi>Good</hi> and <hi>Wiſe</hi> ought to ſtand up, and Vindicate <hi>the Honour of God,</hi> and <hi>the Glory of his Name,</hi> in this and all other Hu<g ref="char:EOLhyphen"/>man Affairs, in which the Wiſdom and the Strength of Man is but Folly and Weakneſs.</p>
+            <p>Thus the Pious King <hi>Hezekiah</hi> and the <hi>Nobles of Judah</hi> were not a little concerned when they heard <hi>Rabſhecah</hi> Blaſpheme the God of <hi>Iſrael,</hi> as if he was not able to reſiſt the <hi>Aſ<g ref="char:EOLhyphen"/>ſyrian</hi> Monarch; That haughty General, who ſeemed to be a Renegado Jew, by his ſpeaking to the Jews in their own Language, was not a<g ref="char:EOLhyphen"/>fraid, in the Name of his New Maſter <hi>Sennacha<g ref="char:EOLhyphen"/>rib,</hi> according to the cuſtom of Renegadoes, to defy that God whom he had once worſhipped. <hi>Thus ſaith the great King,</hi> ſays he, <hi>the King of</hi> Aſſyria, <hi>where are the Gods of the Nations round about us?</hi> not the <hi>Nations</hi> only, but their <hi>Gods:</hi> And then he goes on Blaſpheaming the God of <hi>Iſrael,</hi> as if he was no better than the Gods of Wood and Stone, which he had burnt, and trampled upon; well then might <hi>Hezekiah,</hi> and
+<pb n="17" facs="tcp:95417:11"/>the Heads of the <hi>Tribes of Judah</hi> complain, that <hi>that was a day of Trouble and Rebuke and Blaſ<g ref="char:EOLhyphen"/>phemy:</hi> And well might they Aſſemble them<g ref="char:EOLhyphen"/>ſelves ſolemnly in the <hi>Houſe of the Lord,</hi> and move him for the <hi>Honour of his Name,</hi> which the <hi>Enemy</hi> had ſo Blaſphemed, to Reſcue and De<g ref="char:EOLhyphen"/>liver them; for ſo it is ſaid, That <hi>Hezekiah</hi> Pray<g ref="char:EOLhyphen"/>ed thus before the Lord, 2 <hi>Kings</hi> 19.15, 16. <hi>O Lord God of</hi> Iſrael, <hi>thou art the God, thou alone; bow down thy Ear, and hear the words of</hi> Sennacharib, <hi>which he hath ſent to reproach the living God, and ſave us out of his hand, that all the Kings of the Earth may know, that thou art the Lord God, even thou only.</hi>
+            </p>
+            <p n="2">2dly. Another Seaſon, when it is proper for a People to uſe this <hi>motive to God,</hi> is either when they themſelves or others, whom common <hi>Hu<g ref="char:EOLhyphen"/>manity</hi> and <hi>Chriſtian Charity</hi> oblige to commi<g ref="char:EOLhyphen"/>ſerate, lye under great and heavy Opreſſions; in this caſe Men may confidently apply them<g ref="char:EOLhyphen"/>ſelves to God, for the ſake of his <hi>Honour</hi> and for his <hi>Holy Name.</hi>
+            </p>
+            <p>For as he is the common Father of Mankind, it is agreeable to his Will, and to his Attributes of <hi>Juſtice</hi> and <hi>Compaſſion,</hi> either to prevent <hi>Vio<g ref="char:EOLhyphen"/>lence</hi> and <hi>Oppreſſion,</hi> or to Reſtrain and Puniſh it;
+<pb n="18" facs="tcp:95417:12"/>He has made all Mankind of the ſame Materi<g ref="char:EOLhyphen"/>als, and in the ſame Mould, by which there lies an Obligation upon them to <hi>mutual Tender<g ref="char:EOLhyphen"/>neſs and Aſſistance;</hi> and he has Planted in Men an Appetite to <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> and <hi>Confederacy,</hi> by which they are free and ready to be combin'd in Go<g ref="char:EOLhyphen"/>vernment for their own common Safety and Pre<g ref="char:EOLhyphen"/>ſervation; for the deſign and end of <hi>Government</hi> is <hi>Security</hi> and <hi>Peace,</hi> which is conſonant to the <hi>Will of God,</hi> and to the <hi>Wiſdom of his Providence.</hi>
+            </p>
+            <p>If we allow <hi>the Notion</hi> of thoſe Men who make <hi>Government</hi> to proceed only from <hi>Neceſſity,</hi> and from <hi>Mutual Compact and Agreement,</hi> and al<g ref="char:EOLhyphen"/>lowing alſo <hi>Appetites and Inclinations</hi> in Men to that purpoſe, we may reaſonably thence infer, That it is very diſagreeable to the Ends of Go<g ref="char:EOLhyphen"/>vernment, that they who are united for the ſake of <hi>Preſervation,</hi> ſhould be devoured and conſum<g ref="char:EOLhyphen"/>ed by one another; that Government ſhould be made an Inſtrument of Oppreſſion, and that one Man ſhould ruin Millions Arbitrarily and wan<g ref="char:EOLhyphen"/>tonly againſt the ſtated meaſures of Juſtice, and the Bounds of Common Humanity: We cannot therefore but conceive <hi>thus Worthily of God,</hi> that He who has planted in <hi>Men ſuch Appetites of Pre<g ref="char:EOLhyphen"/>ſervation,</hi> and allows <hi>ſuch <g ref="char:V">Ʋ</g>nion and Confederacy,</hi>
+               <pb n="19" facs="tcp:95417:12"/>will have <hi>Compaſſion upon the Oppreſſed;</hi> and that He will in His own Way, and in His own Time, pu<g ref="char:EOLhyphen"/>niſh the Oppreſſors, who do not <hi>Rule,</hi> but <hi>Ravage;</hi> who do not <hi>feed,</hi> but <hi>worry</hi> and <hi>devour.</hi>
+            </p>
+            <p>Or if we rather approve the <hi>Notion</hi> of others, who found Government upon Divine <hi>Institu<g ref="char:EOLhyphen"/>tion</hi> and <hi>Paternal Authority;</hi> our common Con<g ref="char:EOLhyphen"/>ſanguinity and natural Relation will teach us, that it is unreaſonable, and unnatural to de<g ref="char:EOLhyphen"/>ſtroy and prey upon one another; for tho Pa<g ref="char:EOLhyphen"/>rents have a Superiority, not only by <hi>Nature</hi> but by Divine <hi>Appointment,</hi> and ſo likewiſe the Fathers of many Families, and great Collecti<g ref="char:EOLhyphen"/>ons and Societies of Men, it is only a Superi<g ref="char:EOLhyphen"/>ority in order to the Education and Diſcipline, and good Government of Inferiours; they have no Authority to deſtroy and oppreſs at Plea<g ref="char:EOLhyphen"/>ſure; for <hi>Paternal Authority</hi> Implies Care and Tenderneſs, and Love and Proviſion, which are inconſtent with Tyranny and Cruelty, ſo that we may infer from this <hi>Notion</hi> of <hi>Govern<g ref="char:EOLhyphen"/>ment,</hi> that God is much diſpleaſed with thoſe who mis-uſe this Fatherly Power; if it over<g ref="char:EOLhyphen"/>flow its Banks, it is not a River that fructifies and Cheriſhes, as it ſlides Smoothly and Gent<g ref="char:EOLhyphen"/>ly, but a Torrent and Inundation that Spoils
+<pb n="20" facs="tcp:95417:13"/>and Conſumes all where it takes its Courſe. In this caſe God is Concerned for his own <hi>Honour,</hi> to Interpoſe and to Rebuke theſe ſwelling Waves; and the oppreſſed may very Properly apply themſelves to him as their <hi>Common Fa<g ref="char:EOLhyphen"/>ther,</hi> and humbly beg of him to deliver them from the hands of ſuch men, who are his Mi<g ref="char:EOLhyphen"/>niſters Indeed, but <hi>miſuſe their Miniſtry,</hi> and Em<g ref="char:EOLhyphen"/>ply it not to <hi>help and defend,</hi> but to <hi>ruin and devour.</hi>
+            </p>
+            <p>But beſides, <hi>that this Idea of God,</hi> and <hi>theſe Noti<g ref="char:EOLhyphen"/>ons of his Government of the World,</hi> may convince us <hi>that it is agreeable to his Will, and for the Honour of his Juſtice, and his Fatherly Love and Compaſſion, to relieve the Injured and Oppreſſed.</hi> He has alſo declared the ſame by <hi>his Meſſengers and Prophets in his holy Word and Revelation.</hi> He often makes known Himſelf under <hi>the Stile and Character</hi> of a <hi>Deliverer,</hi> a <hi>Savi<g ref="char:EOLhyphen"/>our and Helper,</hi> and particularly of <hi>the Oppreſſed;</hi> a <hi>Refuge and Defence in time of Trouble.</hi> Theſe are <hi>the Names of God</hi> in Scripture, and He Delights to be <hi>Invocated and Honoured</hi> by theſe <hi>Names.</hi>
+            </p>
+            <p>When He delivered <hi>the Children of Iſrael</hi> out of <hi>the Iron Furnace,</hi> as the Prophet <hi>Jeremiah</hi> terms the <hi>Egyptian Bondage,</hi> He is ſaid to <hi>get him a Name,</hi> as <hi>the ſame Prophet</hi> expreſſes it; <hi>The Lord that brought them out of the Land of Egypt, out of the Houſe of
+<pb n="21" facs="tcp:95417:13"/>Bondage;</hi> by <hi>which Name</hi> He was pleaſed to be ſti<g ref="char:EOLhyphen"/>led, and ſtiled Himſelf when He Dictated the <hi>Ten Commandments</hi> to His Servant <hi>Moſes.</hi>
+            </p>
+            <p>And when He delivered them from <hi>that other Captivity in Babylon,</hi> then <hi>He got Him a New Name</hi> as <hi>the ſame Prophet</hi> deſcribes Him, ſaying of Him<g ref="char:EOLhyphen"/>ſelf in <hi>Jer.</hi> 16.14, 15. <hi>But the day is come, ſaith the Lord, that it ſhall no more be ſaid, the Lord liveth who brought up the Children of Iſrael out of the Land of Egypt, but the Lord liveth who brought up the Child<g ref="char:EOLhyphen"/>ren of Iſrael from the Land of the North, and from all the Lands whither he had driven them.</hi>
+            </p>
+            <p>So agreeable is it to God to be ſtiled, and to ſtile Himſelf by Names of Deliverance, and with reſpect to <hi>Oppreſſion particularly;</hi> And ſo <hi>the Pſal<g ref="char:EOLhyphen"/>miſt</hi> frequently deſcribes Him, <hi>Pſ.</hi> 103. <hi>The Lord executeth Righteouſneſs and Judgment for all that are Oppreſſed.</hi> And in <hi>Pſ.</hi> 68.5. <hi>He is a Father of the Fa<g ref="char:EOLhyphen"/>therleſs, and a Judg of the Widow; who ſetteth the ſo<g ref="char:EOLhyphen"/>litary in Families, and bringeth the Priſoners out of Captivity.</hi> And in <hi>Pſ.</hi> 12.5. he introduces God thus ſpeaking; <hi>For the Oppreſſion of the Poor, and for the ſighing of the Needy, now will I ariſe, ſaith the Lord, and will ſet him in ſafety from him that Puffeth at him.</hi> Well then may the oppreſſed and the afflicted call upon God by theſe <hi>Names,</hi> and move him for the <hi>Honour and
+<pb n="22" facs="tcp:95417:14"/>Glory of his Name,</hi> of this particular <hi>Name</hi> of <hi>De<g ref="char:EOLhyphen"/>liverer</hi> eſpecially, to help and ſave them in the time of trouble.</p>
+            <p>I ſhall now in the laſt place take leave to make ſome Application of the whole to our ſelves, upon occaſion of our Preſent Meeting.</p>
+            <p n="1">1. Then, If Almighty God have ſuch a Re<g ref="char:EOLhyphen"/>ſpect to the <hi>Honour of his Name,</hi> as to accept the Addreſſes that are made to him upon that mo<g ref="char:EOLhyphen"/>tive, it is a great Incouragement to us to make uſe of it upon all occaſions; eſpecially upon oc<g ref="char:EOLhyphen"/>caſion of uſing ſome extraordinary Offices of Devotion.</p>
+            <p>The <hi>Church of England</hi> was ſo ſenſible of this, that ſhe preſcribes it in the <hi>Litany Office,</hi> which is appointed to be performed Three Times in e<g ref="char:EOLhyphen"/>very Week: <hi>O Lord, Ariſe, help us, and deliver us for thy Names ſake.</hi> And again, <hi>Help us, and deliver us for thy Honour:</hi> And ſoon after, <hi>For the Glory of thy Name, turn from us all thoſe Evils, that we moſt righteouſly have deſerved,</hi>
+            </p>
+            <p>But this is moſt eſpecially proper to be uſed upon Emergent and Extraordinary Occaſions; When a <hi>whole Nation</hi> is aſſembled, to <hi>humble them<g ref="char:EOLhyphen"/>ſelves before God,</hi> to confeſs <hi>their ſins,</hi> to implore Pardon and Forgiveneſs, to deprecate <hi>the Wrath
+<pb n="23" facs="tcp:95417:14"/>and Vengeance</hi> of God, and to deſire His Directi<g ref="char:EOLhyphen"/>on and Bleſſing upon great Occaſions, and in great Straits and Difficulties; then to uſe this Motive, is very ſeaſonable; for the <hi>Honours</hi> and <hi>Diſhonours</hi> that are reflected upon God by <hi>Pub<g ref="char:EOLhyphen"/>lick Perſons,</hi> and <hi>Publick Bodies,</hi> affect Him moſt; for a whole Nation therefore, the <hi>Prince,</hi> the <hi>Nobles,</hi> and the great <hi>Body</hi> of the People, to apply themſelves to him unanimouſly by Prayer and Suplication, for the <hi>Honour</hi> of his Great <hi>Name,</hi> muſt needs be acceptable to Him, and prevail with Him to <hi>hear</hi> and to <hi>help them.</hi>
+            </p>
+            <p>But then while they thus affectionately im<g ref="char:EOLhyphen"/>plore His Mercy, for <hi>the ſake of his Honour,</hi> they muſt,</p>
+            <p>In the 2d Place, <hi>Be careful, that they do not as publickly</hi> Diſhonour <hi>him by their Sins, as they pretend publickly to</hi> Honour <hi>him by their Devotions.</hi>
+            </p>
+            <p>All Sin, which is <hi>the Tranſgreſſion of God's Law;</hi> tendeth to <hi>his Diſhonour.</hi> It is an Affront to his Au<g ref="char:EOLhyphen"/>thority, and to the Juſtice, Equity and Reaſona<g ref="char:EOLhyphen"/>bleneſs of <hi>his Laws and Government;</hi> But <hi>the Con<g ref="char:EOLhyphen"/>tempt of the Law of God</hi> is a greater Wickedneſs than <hi>the bare Violation of it;</hi> and <hi>the Diſhonour</hi> done to God by it, is of greater Aggravation.</p>
+            <p>If a Nation, or a conſiderable part of it (for it
+<pb n="24" facs="tcp:95417:15"/>may be, no Nation was ever ſo Univerſally De<g ref="char:EOLhyphen"/>praved) but if <hi>the greater,</hi> and <hi>the moſt conſpicuous</hi> part of it offend notoriouſly in theſe two Inſtan<g ref="char:EOLhyphen"/>ces, of <hi>open Tranſgreſſion</hi> and <hi>bold Contempt of the Law of God, the Honour</hi> they do to God by publick <hi>Faſting and Confeſſion,</hi> is not ſo acceptable to Him, as the Diſhonour they do to <hi>his holy Name,</hi> by Pro<g ref="char:EOLhyphen"/>phanation and Defiance, is diſpleaſing and pro<g ref="char:EOLhyphen"/>voking.</p>
+            <p>But if, like <hi>the Inhabitants</hi> of the Great City <hi>Nineveh,</hi> they would intirely believe <hi>the Revela<g ref="char:EOLhyphen"/>tion</hi> of God, and ſincerely and univerſally hum<g ref="char:EOLhyphen"/>ble themſelves and repent, as <hi>they did at the Prea<g ref="char:EOLhyphen"/>ching of the Prophet Jonas,</hi> no doubt but God would have Compaſſion upon them, and prevent or Revoke the Sentence of Judgment, as He did from <hi>that City.</hi>
+            </p>
+            <p>But when one part of a Nation are uncon<g ref="char:EOLhyphen"/>cerned and Idle, and Negligently omit the time appointed for <hi>Solemn and Publick Humiliation;</hi> and another part Expoſe and Ridicule it; and a third, that reſort indeed to the place of <hi>Solem<g ref="char:EOLhyphen"/>nity,</hi> yet neither Pray Affectionately, nor Hear Attentively, nor Repent Seriouſly, nor break off any Evil Cuſtom, nor forſake any one Sin, nor reſiſt any one Temptation, nor ſhow the
+<pb n="25" facs="tcp:95417:15"/>leaſt Effect of Sorrow in the following part of their Lives; how can ſuch a Nation expect that God ſhould be favourable to them? Eſpecial<g ref="char:EOLhyphen"/>ly if ſuch as theſe make up <hi>the greater Number;</hi> al<g ref="char:EOLhyphen"/>tho in an other Rank there may be a better ſort amongſt them, who attend the Offices and Mi<g ref="char:EOLhyphen"/>niſteries of Repentance with afflicted and bro<g ref="char:EOLhyphen"/>ken Hearts, and ſincere Reſolutions of Amend<g ref="char:EOLhyphen"/>ment of Life: The devout and ſerious Addreſ<g ref="char:EOLhyphen"/>ſes of this little Flock, (altho God will undoubt<g ref="char:EOLhyphen"/>edly accept and reward them for it), cannot at<g ref="char:EOLhyphen"/>tone for the Negligencies, the Hyprocriſies, the Affronts and Contempts of a far greater Num<g ref="char:EOLhyphen"/>ber; And if the Performance of the Methods of Reconciliation cannot avail to reconcile them, what can become of ſuch a Nation?</p>
+            <p>If this be the Caſe of our own Nation, it is very ſad and deplorable: I do not ſay it is; but rather hope otherwiſe; but it muſt needs be con<g ref="char:EOLhyphen"/>feſs'd, that we labour under this ill Indication, That our <hi>Publick Faſts</hi> and <hi>Humiliations,</hi> repea<g ref="char:EOLhyphen"/>ted Yearly, for ſeveral Years together, are not accompanied, and compleated with a Viſible Amendment and Reformation.</p>
+            <p>Shall I inſtance to you in our <hi>Vanity</hi> and <hi>Lux<g ref="char:EOLhyphen"/>ury,</hi> in our <hi>Intemperance</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ncleanneſs,</hi> in our
+<pb n="26" facs="tcp:95417:16"/>
+               <hi>prophane uſe of the Holy Name of God by Oaths and Imprecations,</hi> in our <hi>Perjuries</hi> and <hi>Blaſphemies,</hi> in our <hi>Injuſtice</hi> and <hi>Partiality,</hi> in our <hi>Frauds</hi> and <hi>uncharitable Circumventions,</hi> in our <hi>Diviſions, Facti<g ref="char:EOLhyphen"/>ons</hi> and <hi>Animoſities?</hi> Have we not been ſo far from Reforming <hi>theſe notorious Wickedneſſes,</hi> not<g ref="char:EOLhyphen"/>withſtanding our <hi>Faſtings, Confeſſions</hi> and <hi>Humi<g ref="char:EOLhyphen"/>liations,</hi> that we have Proceeded to a greater de<g ref="char:EOLhyphen"/>gree of Boldneſs and Confidence in committing them?</p>
+            <p>Nay further, upon theſe <hi>Licentious Practices</hi> ſome Men have built <hi>Pernicious Doctrines,</hi> and from <hi>denying God in their Works,</hi> are arriv'd to that Degree of Folly, not only to <hi>deny Him in their Hearts,</hi> but <hi>with their Tongues.</hi>
+            </p>
+            <p>I might here, not improperly, mention the <hi>Diſhonours</hi> that are done to the Eternal Son of <hi>God</hi> in <hi>his Eſſence,</hi> in <hi>his Doctrine,</hi> in <hi>his Laws and Government,</hi> in <hi>the Miniſters and Officers of his King<g ref="char:EOLhyphen"/>dom,</hi> and <hi>the whole Chriſtian Revelation.</hi> Theſe Pra<g ref="char:EOLhyphen"/>ctices and theſe Doctrines grow upon us Daily; They are <hi>entertained, encouraged</hi> and <hi>propagated more and more,</hi> to common Obſervation: And if this be our Caſe, that the <hi>Means and Mini<g ref="char:EOLhyphen"/>ſtries of Repentance</hi> have no better Effect upon us, but that we rather <hi>grow worſe under the uſe
+<pb n="27" facs="tcp:95417:16"/>of them,</hi> by what other means can we expect to be reconciled to <hi>God,</hi> and <hi>procure his Favour and Protection?</hi>
+            </p>
+            <p>We have nothing to move upon our own account: If God be pleaſed to Save and Proſ<g ref="char:EOLhyphen"/>per us, it can be from no other Motive but the <hi>Honour of his Name:</hi> The beſt that we can ſay for our ſelves, is, that in our <hi>puhlick Worſhip</hi> we do not aſcribe that <hi>Honour</hi> to any other which is <hi>due to him only;</hi> we Pray neither to <hi>Saint</hi> nor <hi>Angel;</hi> we make them neither the <hi>Objects of our Worſhip,</hi> nor uſe them as <hi>Interceſſors on our be<g ref="char:EOLhyphen"/>half;</hi> this may give us ſome <hi>ground of Hope.</hi>
+            </p>
+            <p>Beſides, it's uſual with <hi>God</hi> to concern Him<g ref="char:EOLhyphen"/>ſelf in <hi>Oppoſing and Humbling Bloody, Deceitful</hi> and <hi>Oppreſſing Men:</hi> He <hi>delights to Defeat Proud and Preſumptuous <g ref="char:V">Ʋ</g>ndertakings;</hi> to <hi>Baffle Haugh<g ref="char:EOLhyphen"/>ty and Inſolent Names and Titles,</hi> and <hi>Diſappoint High and Swelling Expectations:</hi> This he Does when he Pleaſes, and when it is for the <hi>Honour</hi> of his <hi>Name:</hi> But the <hi>Time and Method of do<g ref="char:EOLhyphen"/>ing it,</hi> muſt be left to <hi>His All-Wiſe Providence.</hi>
+            </p>
+            <p>The only thing that might encourage us to hope for it <hi>ſpeedily,</hi> Would be not a <hi>National Faſt</hi> only, but a <hi>National Reformation.</hi> This Hum<g ref="char:EOLhyphen"/>bling our ſelves, and <hi>Bowing our Heads like a
+<pb n="28" facs="tcp:95417:17"/>Bullruſh for a Day,</hi> will not Prevail with God, who knows the Secrets of all Hearts: But if we would <hi>Heartily,</hi> and <hi>Thoroughly,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſally Amend our Ways and our Doings,</hi> then we might expect the <hi>Light of God's Countenance,</hi> and the Bleſſings of Victory, and Peace, and Safety, and Wealth, and Good Succeſs in all our Juſt and Honourable Enterpriſes; <hi>Which God of his. Mercy Grant, for the Sake of Jeſus Chriſt: To whom be aſcrib'd all Honour, and Glo<g ref="char:EOLhyphen"/>ry, and Praiſe, now, hence forward, and for ever more.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
